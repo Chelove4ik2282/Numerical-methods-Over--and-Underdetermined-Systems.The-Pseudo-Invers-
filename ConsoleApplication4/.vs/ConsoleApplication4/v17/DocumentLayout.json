@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\firud\\source\\repos\\ConsoleApplication4\\",
+  "WorkspaceRootPath": "C:\\Users\\firud\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Numerical-methods-Over--and-Underdetermined-Systems.The-Pseudo-Invers-\\ConsoleApplication4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{521573F7-ECE5-4826-AF77-2D64C5A1B9F2}|ConsoleApplication4.vcxproj|C:\\Users\\firud\\source\\repos\\ConsoleApplication4\\ConsoleApplication4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{521573F7-ECE5-4826-AF77-2D64C5A1B9F2}|ConsoleApplication4.vcxproj|C:\\Users\\firud\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Numerical-methods-Over--and-Underdetermined-Systems.The-Pseudo-Invers-\\ConsoleApplication4\\ConsoleApplication4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{521573F7-ECE5-4826-AF77-2D64C5A1B9F2}|ConsoleApplication4.vcxproj|solutionrelative:ConsoleApplication4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -28,7 +28,7 @@
         },
         {
           "DockedWidth": 1097,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -43,21 +43,21 @@
               "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ConsoleApplication4.cpp",
-              "DocumentMoniker": "C:\\Users\\firud\\source\\repos\\ConsoleApplication4\\ConsoleApplication4.cpp",
+              "DocumentMoniker": "C:\\Users\\firud\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Numerical-methods-Over--and-Underdetermined-Systems.The-Pseudo-Invers-\\ConsoleApplication4\\ConsoleApplication4.cpp",
               "RelativeDocumentMoniker": "ConsoleApplication4.cpp",
-              "ToolTip": "C:\\Users\\firud\\source\\repos\\ConsoleApplication4\\ConsoleApplication4.cpp",
+              "ToolTip": "C:\\Users\\firud\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Numerical-methods-Over--and-Underdetermined-Systems.The-Pseudo-Invers-\\ConsoleApplication4\\ConsoleApplication4.cpp",
               "RelativeToolTip": "ConsoleApplication4.cpp",
-              "ViewState": "AgIAAFEAAAAAAAAAAAAwwFwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-05-11T12:21:55.791Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         },
